@@ -6,7 +6,7 @@ The use case for this was a situation where the values in the Controlling Pickli
 
 I modified Narender's LWC to include the 2 additional picklists and 2 make the Controlling Picklist and the 1st 2 Dependent Picklists required in the LWC.  If they could be required at Field Level that would have been better but because these were being added to an already existing org with data that would not be updated immediately it was elected to only require at the page and Flow level.  When the 1st Dependent Field is changed, the event handler also clears the values for the 2nd and 3rd (unless a selection that is still valid was made).
 
-I have provided an example Object (LyndaTest__c) as well as an Exmaple Flow (Dependent_Picklist_LWC_Example).  The flow is inactive and contains 3 exmaples.  The first example uses the object and the picklist fields.  The second example limits to a specific Record Type and hides the Record Type selection.  The third example includes a MultiSelect Picklist field as the 3rd and final dependent field.
+I have provided an example Object (LyndaTest__c) as well as an Example Flow (Dependent_Picklist_LWC_Example).  The flow is inactive and contains 3 example screens.  The first example uses the object and the picklist fields.  The second example limits to a specific Record Type and hides the Record Type selection.  The third example includes a MultiSelect Picklist field as the 3rd and final dependent field.
 
 ## What do I need to deploy if I want to use this?
 
