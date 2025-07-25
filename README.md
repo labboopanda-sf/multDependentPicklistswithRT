@@ -1,6 +1,6 @@
 # multDependentPicklistswithRT
 
-The project provides a modified Flow Screen Component LWC based on the Flow Screen Component: Dependent Picklists with RecordType and MultiSelect Picklist Support by Narender Singh foun on [Unofficial SF](https://unofficialsf.com/flow-screen-component-dependent-picklists-with-recordtype-and-multiselect-picklist-support-by-narender-singh/) or directly in hist [forcePanda blog](https://forcepanda.wordpress.com/2019/06/11/flow-screen-component-dependent-picklists-with-recordtype-and-multiselect-picklist-support/).
+The project provides a modified Flow Screen Component LWC based on the Flow Screen Component: Dependent Picklists with RecordType and MultiSelect Picklist Support by Narender Singh found on [Unofficial SF](https://unofficialsf.com/flow-screen-component-dependent-picklists-with-recordtype-and-multiselect-picklist-support-by-narender-singh/) or directly in hist [forcePanda blog](https://forcepanda.wordpress.com/2019/06/11/flow-screen-component-dependent-picklists-with-recordtype-and-multiselect-picklist-support/).
 
 The use case for this was a situation where the values in the Controlling Picklist and Dependent Picklist differed by Record Type.  Additionally, the Dependent Picklist controlled 2 additional Dependent Picklists where 1 is required via page layout and the 2nd is not.
 
